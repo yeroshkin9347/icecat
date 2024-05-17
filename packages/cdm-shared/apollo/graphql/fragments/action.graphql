@@ -1,0 +1,3 @@
+fragment ActionFields on Action {
+  actionExecutionCondition
+}

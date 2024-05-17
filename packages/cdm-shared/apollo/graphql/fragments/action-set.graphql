@@ -1,0 +1,11 @@
+#import "./action.graphql"
+
+fragment ActionSetFields on ActionSet {
+  name
+  sourcePropertyCode
+  propertyGroup
+  propertyGroupId
+  orderedParametrizedActions {
+    ...ActionFields
+  }
+}

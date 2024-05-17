@@ -1,0 +1,17 @@
+#import "./transformation.graphql"
+#import "./trade-item-category.graphql"
+
+fragment TransformationSetFields on TransformationSet {
+  name
+  transformations {
+    ...TransformationFields
+  }
+  tradeItemCategory {
+    ...TradeItemCategoryFields
+  }
+  taxonomyId
+  createTimestamp
+  updateTimestamp
+  isDeleted
+  id
+}

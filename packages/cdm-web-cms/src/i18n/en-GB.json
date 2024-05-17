@@ -1,0 +1,949 @@
+{
+  "common": {
+    "refesh": "Refesh",
+    "rowsPerPage": "Rows per page",
+    "of": "of",
+    "loading": "Loading"
+  },
+  "agenda": {
+    "title": "Dashboard",
+    "filters": {
+      "gtin": "GTIN",
+      "ref": "Manufacturer reference",
+      "productCategory": "Product Category",
+      "edition": "Edition",
+      "platform": "Platform",
+      "retailer": "Retailer",
+      "dates": "Dates",
+      "publicationStatus": "Publication status",
+      "keyword": "Keyword (3 characters min.)"
+    },
+    "releaseDate": "Release Date",
+    "reviewDate": "Review Date",
+    "calendar": "Calendar",
+    "list": "List",
+    "month": "Month",
+    "week": "Week",
+    "day": "Day",
+    "allday": "All-day",
+    "today": "Today"
+  },
+  "catalog": {
+    "filters": {
+      "filtersCount": "active filters",
+      "filtersCount_singular": "active filters",
+      "filtersEmpty": "+ Add filters",
+      "filters": "Advanced filters",
+      "clearFilters": "Clear filters",
+      "gtin": "GTIN",
+      "ref": "Manufacturer reference",
+      "cancel": "Close",
+      "apply": "Apply",
+      "keyword": "Free search (title, description...)",
+      "manufacturers": "Suppliers",
+      "brands": "Brands",
+      "releaseDateStart": "Release date start",
+      "releaseDateEnd": "Release date end",
+      "updatedDateStart": "Last updated start",
+      "updatedDateEnd": "Last updated end",
+      "hasImages": "With pictures",
+      "viewMore": "View more",
+      "clear": "Clear",
+      "hasNoImages": "No image",
+      "hasVideos": "With videos",
+      "hasNoVideos": "No videos",
+      "scopes": "Scopes",
+      "export": "Export",
+      "exportBasket": "Export basket",
+      "exportResults": "Export search results",
+      "isExporting": "An export request has been generated. To track your export, please click the link below:",
+      "viewMyExports": "Track my export",
+      "exportError": "Error during the export",
+      "emptyBasket": "Empty basket",
+      "moreFilters": "+ More filters",
+      "updateDate": "Last updated date",
+      "updateDateOneDay": "1 Day",
+      "updateDateOneWeek": "1 Week",
+      "updateDateOneMonth": "1 Month",
+      "title": "Title",
+      "retailerSku": "Retailer SKU",
+      "tradeItemId": "Trade Item Id"
+    },
+    "toysFilters": {
+      "discontinuedDateStart": "Discontinued date start",
+      "discontinuedDateEnd": "Discontinued date end",
+      "discontinuedDateEmpty": "No discontinued date",
+      "seasonality": "Seasonality",
+      "npd": "NPD category",
+      "productLine": "Product line",
+      "quickFilters": "Quick filters",
+      "endOfYear": "End of year",
+      "permanent": "Permanent",
+      "year": "Year",
+      "buyersAllowed": "Buyer ready",
+      "consistency": "Consistency status"
+    }
+  },
+  "connectionsmasstool": {
+    "main": {
+      "createnew": "+ Add Connections",
+      "title": "Connections",
+      "save": "Save",
+      "create": "Create Connections",
+      "edit_connectors": "Edit Connections",
+      "new_connectors": "New Connections",
+      "go_back_to_list": "Go back to list",
+      "create_new_connectors": "Create New Connections",
+      "delete_connectors": "Delete Connections",
+      "select_manufacturer": "Select Manufacturers"
+    },
+    "table": {
+      "information": "offer information",
+      "description": "description",
+      "manufacturer": "Manufacturer",
+      "offer": "Offer",
+      "min_nb_of_trade_items": "Min. nb of trade items",
+      "max_nb_of_trade_items": "Max. nb of trade items",
+      "nb_of_connectors": "Nb of Connections",
+      "order": "order",
+      "id": "ID",
+      "actions": "Actions",
+      "name": "Name",
+      "type": "Type",
+      "retailers": "retailers",
+      "target_market": "Target Market",
+      "status": "Status",
+      "visibility": "Visibility",
+      "sent_by_manufacturer": "Sent by Manu.",
+      "release_date": "Release Date"
+    },
+    "filter": {
+      "keyword": "keyword search (gtin, ref, title, manufacturer)...",
+      "advancedbtn": "advanced filters",
+      "clearbtn": "clear filters",
+      "search": "search"
+    },
+    "add_edit": {
+      "id": "ID",
+      "manufacturers": "Manufacturers",
+      "connectors": "Connectors",
+      "offers": "Offers",
+      "type": "Type",
+      "scopes": "Scopes",
+      "status": "Status",
+      "visibility": "Visibility",
+      "release_date": "Release Date",
+      "discontinued_date": "Discontinued Date",
+      "sent_by_manufacturer_himself": "Sent by manufacturer himself",
+      "clearbtn": "clear filters",
+      "search": "search",
+      "connections_duplication": "Connections duplication"
+    }
+  },
+  "connections": {
+    "main": {
+      "title": "Connections",
+      "create_new": "Create New Connection",
+      "add": "Add Connections",
+      "delete": "Delete",
+      "update": "Update",
+      "create": "Create",
+      "go_back": "Go back to list",
+      "edit": "Edit Connection",
+      "new": "New Connection"
+    },
+    "table": {
+      "connector": "Connector",
+      "id": "ID",
+      "manufacturer": "Manufacturer",
+      "release_date": "Release Date",
+      "status": "Status",
+      "edit": "Edit",
+      "actions": "Actions"
+    },
+    "filter": {
+      "keyword": "keyword search (gtin, ref, title, manufacturer)...",
+      "advancedbtn": "advanced filters",
+      "clearbtn": "clear filters",
+      "search": "search"
+    },
+    "add_edit": {
+      "id": "ID",
+      "manufacturer": "Manufacturer",
+      "connector": "Connector",
+      "status": "Status",
+      "release_date": "Release Date",
+      "clearbtn": "clear filters",
+      "search": "search"
+    }
+  },
+  "connectorsmasstool": {
+    "main": {
+      "createnew": "+ Add Connectors",
+      "title": "Connectors",
+      "save": "Save",
+      "create": "Create Connectors",
+      "edit_connectors": "Edit Connectors",
+      "new_connectors": "New Connectors",
+      "go_back_to_list": "Go back to list",
+      "create_new_connectors": "Create New Connectors",
+      "delete_connectors": "Delete Connectors"
+    },
+    "table": {
+      "information": "offer information",
+      "description": "description",
+      "manufacturer": "Manufacturer",
+      "offer": "Offer",
+      "min_nb_of_trade_items": "Min. nb of trade items",
+      "max_nb_of_trade_items": "Max. nb of trade items",
+      "nb_of_connectors": "Nb of connectors",
+      "order": "order",
+      "id": "ID",
+      "actions": "Actions",
+      "name": "Name",
+      "type": "Type",
+      "retailers": "retailers",
+      "target_market": "Target Market",
+      "status": "Status",
+      "visibility": "Visibility",
+      "sent_by_manufacturer": "Sent by Manu.",
+      "release_date": "Release Date"
+    },
+    "filter": {
+      "keyword": "keyword search (gtin, ref, title, manufacturer)...",
+      "advancedbtn": "advanced filters",
+      "clearbtn": "clear filters",
+      "search": "search"
+    },
+    "add_edit": {
+      "id": "ID",
+      "retailers": "Retailers",
+      "target_markets": "Target Markets",
+      "offers": "Offers",
+      "type": "Type",
+      "scopes": "Scopes",
+      "status": "Status",
+      "visibility": "Visibility",
+      "release_date": "Release Date",
+      "discontinued_date": "Discontinued Date",
+      "sent_by_manufacturer_himself": "Sent by manufacturer himself",
+      "clearbtn": "clear filters",
+      "search": "search"
+    }
+  },
+  "connectors": {
+    "main": {
+      "title": "Connectors",
+      "create_new": "Create New Connector",
+      "add": "Add Connectors",
+      "delete": "Delete",
+      "update": "Update",
+      "create": "Create",
+      "go_back": "Go back to list",
+      "edit": "Edit Connectors",
+      "new": "New Connectors"
+    },
+    "table": {
+      "edit": "Edit",
+      "information": "offer information",
+      "description": "description",
+      "manufacturer": "Manufacturer",
+      "offer": "Offer",
+      "min_nb_of_trade_items": "Min. nb of trade items",
+      "max_nb_of_trade_items": "Max. nb of trade items",
+      "nb_of_connectors": "Nb of connectors",
+      "order": "order",
+      "id": "ID",
+      "actions": "Actions",
+      "name": "Name",
+      "type": "Type",
+      "retailers": "Retailers",
+      "target_market": "Target Market",
+      "status": "Status",
+      "visibility": "Visibility",
+      "sent_by_manufacturer": "Sent by Manu.",
+      "release_date": "Release Date"
+    },
+    "filter": {
+      "keyword": "keyword search (gtin, ref, title, manufacturer)...",
+      "advancedbtn": "advanced filters",
+      "clearbtn": "clear filters",
+      "search": "search"
+    },
+    "add_edit": {
+      "id": "ID",
+      "retailers": "Retailers",
+      "target_markets": "Target Markets",
+      "connectors": "connectors",
+      "type": "Type",
+      "scopes": "Scopes",
+      "status": "Status",
+      "visibility": "Visibility",
+      "release_date": "Release Date",
+      "discontinued_date": "Discontinued Date",
+      "sent_by_manufacturer_himself": "Sent by manufacturer himself",
+      "clearbtn": "clear filters",
+      "search": "search"
+    }
+  },
+  "importReports": {
+    "meta": {
+      "title": "Imports reports",
+      "na": "N/A",
+      "viewDetail": "View detail",
+      "matrix": "Matrix",
+      "importOf": "Import of ",
+      "errors": "Errors"
+    },
+    "table": {
+      "counts": "Totals",
+      "manufacturer": "Manufacturer",
+      "start": "Date",
+      "importName": "Import name",
+      "user": "User",
+      "numberOfProducts": "Products validated",
+      "numberOfProductsImported": "Number of imported products",
+      "numberOfFailedImports": "Total number of errors",
+      "numberOfProductsNotChanged": "Number of products unchanged",
+      "numberOfMappingErrors": "Number of mapping errors",
+      "actions": "Actions",
+      "ean": "EAN",
+      "ref": "Ref.",
+      "title": "Title",
+      "property": "Property",
+      "propertyCode": "Property code",
+      "droppedFtp": "Dropped on FTP",
+      "status": "Status"
+    },
+    "links": {
+      "backTo": "Go back to: ",
+      "all": "All of the imports",
+      "import": "Import detail"
+    },
+    "filters": {
+      "gtin": "Gtin",
+      "property": "Property",
+      "group": "Group",
+      "clear": "Clear filters",
+      "title": "Title",
+      "status": "Status",
+      "Blocked": "Blocked",
+      "Warning": "Warning",
+      "Ok": "Ok"
+    },
+    "errors": {
+      "mapping": "Mapping errors",
+      "businessRules": "Data issues",
+      "persistence": "Unexpected errors",
+      "gtin": "GTIN",
+      "productManufacturerCode": "Manufacturer reference",
+      "lineNumber": "Line",
+      "sheetIndex": "Sheet index",
+      "removeFilters": "Remove filters",
+      "actions": "Actions",
+      "property": "Property",
+      "propertyCode": "Property code",
+      "value": "Value",
+      "reason": "Reason",
+      "viewProduct": "View product",
+      "persistenceErrors": "Some unexpected issues have been encountered during the import process. Our team is analyzing the problem.",
+      "noPersistenceErrors": "No unexpected errors were found."
+    }
+  },
+  "login": {
+    "loginToAccount": "Login to Your Account",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot your password",
+    "login": "Login",
+    "noAccount": "No account yet?",
+    "signup": "signup"
+  },
+  "manufacturer": {
+    "main": {
+      "title": "Manufacturer",
+      "create_new": "Create New Manufacturer",
+      "add": "Add Manufacturer",
+      "delete": "Delete",
+      "update": "Update",
+      "create": "Create",
+      "go_back": "Go back to list",
+      "edit": "Edit Manufacturer",
+      "new": "New Manufacturer"
+    },
+    "table": {
+      "id": "Id",
+      "name": "Name",
+      "ftp": "FTP",
+      "url": "URL",
+      "path": "Path",
+      "actions": "Actions",
+      "edit": "Edit",
+      "delete": "Delete"
+    },
+    "filter": {
+      "keyword": "keyword search (gtin, ref, title, manufacturer)...",
+      "advancedbtn": "advanced filters",
+      "clearbtn": "clear filters",
+      "search": "search"
+    },
+    "add_edit": {
+      "onboarded": "Onboarded?",
+      "manufacturer_id": "Manufacturer ID",
+      "name": "Name*",
+      "default_export_action": "Default Export Action",
+      "export_actions": "Export actions",
+      "pdf_export_actions": "PDF Export actions",
+      "external_id": "External ID",
+      "allow_pdf_download": "Allow PDF download",
+      "authorize_automatic": "Authorize automatic Mine for conflict",
+      "contacts_links": "Contacts links",
+      "company_prefixes": "Company prefixes",
+      "save_manufacturer": "Save manufacturer",
+      "subscription": "Subscription",
+      "manufacturer": "Manufacturer",
+      "offer": "Offer",
+      "min_nb": "Min. nb of trade items",
+      "max_nb": "Max. nb  of trade items",
+      "number_of_connectors": "Number of connectors",
+      "add_new_contacts": "Add new contacts",
+      "start_polling_timestamp": "Start Polling Timestamp",
+      "create_new_entity": "Create New Entity",
+      "end_polling_timestamp": "End Polling Timestamp",
+      "trigger_polling": "Trigger Polling"
+    },
+    "modal": {
+      "name": "Name*",
+      "description": "Description*",
+      "Manufacturer": "Manufacturer*",
+      "matrix_mapping": "Matrix mapping*",
+      "is_csv": "Is CSV?",
+      "ftp_connection_settings": "FTP connection settings",
+      "url": "URL *",
+      "username": "Username *",
+      "path": "Path *",
+      "password": "Password *"
+    },
+    "entity": {
+      "manufacturer_entity_information": "Manufacturer entity information",
+      "manufacturer_entity_id": "Manufacturer entity ID",
+      "name": "Name*",
+      "retailers_network": "Retailers network",
+      "import_settings": "Import settings",
+      "matrix_mapping": "Matrix mapping",
+      "default_import_language": "Default import language*",
+      "taxonomy": "Taxonomy",
+      "default_target_market": "Default target market",
+      "media_directory": "Media directory",
+      "full_media_directory": "Full media directory",
+      "images_regex": "Images regex",
+      "image_type_mappings": "Image Type Mappings",
+      "video_regex": "Video regex",
+      "matrix_regex": "Matrix regex",
+      "add_new_type_mappings": "+Add new type mappings",
+      "export_settings": "Export settings",
+      "resource_base_url": "Resource base URL",
+      "description": "Description*",
+      "Manufacturer": "Manufacturer*",
+      "is_csv": "Is CSV?",
+      "ftp_connection_settings": "FTP connection settings",
+      "url": "URL *",
+      "username": "Username *",
+      "path": "Path *",
+      "password": "Password *",
+      "business_rules_sets": "Business rules sets"
+    },
+    "subscription": {
+      "id": "ID",
+      "manufacturer": "Manufacturer",
+      "offer": "Offer",
+      "min_nb_of_trade_items": "Min. nb of trade items",
+      "max_nb_of_trade_items": "Max. nb of trade items",
+      "nb_of_connectors": "Number of connectors",
+      "clearbtn": "clear filters",
+      "search": "search"
+    }
+  },
+  "menu": {
+    "title": "Cedemo CMS",
+    "searchplaceholder": "Search products",
+    "userMessages": "User messages",
+    "products": "Products",
+    "transformations": "Transformations",
+    "subscriptions": "Subscriptions",
+    "subscription": "Subscription",
+    "offers": "Offers",
+    "connectors": "Connectors",
+    "connections": "Connections",
+    "connections_mass_tool": "Connections mass tool",
+    "connectors_mass_tool": "Connectors mass tool",
+    "imports": "Imports",
+    "exports": "Exports",
+    "videos": "Videos"
+  },
+  "messaging": {
+    "pagination": "${pageFrom} - ${pageTo} on ${total}",
+    "menu": {
+      "inbox": "Inbox",
+      "outbox": "Sent",
+      "drafts": "Drafts"
+    },
+    "filters": {
+      "placeholder": "Search messages",
+      "noOptionMessage": "Press enter to search subjects",
+      "subject": "Subject",
+      "collection": "Collection",
+      "company": "Company",
+      "subjectContains": "The subject contains: \"${rawValue}\""
+    },
+    "outbox": {
+      "noMessageSent": "No message have been sent at the moment."
+    },
+    "inbox": {
+      "noMessageReceived": "No message have been received at the moment"
+    },
+    "draft": {
+      "messageSentTitle": "Message sent!",
+      "messageSentBody": "Your message have been sent.",
+      "newMessage": "New message",
+      "to": "To*:",
+      "template": "Template",
+      "subject": "Subject*:",
+      "collection": "Collection",
+      "send": "Send",
+      "noDraft": "No draft were found."
+    },
+    "newMessage": "New message",
+    "noMessageAwaiting": "No message awaiting.",
+    "manufacturer": {},
+    "retailer": {},
+    "table": {
+      "information": "Information",
+      "id": "Id",
+      "sender": "Sender",
+      "senderName": "Name",
+      "senderCompanyName": "Sender company",
+      "recipients": "Recipients",
+      "companyName": "Recipient company",
+      "content": "Content",
+      "subject": "Subject",
+      "body": "Body preview",
+      "tags": "Tags",
+      "actions": "Actions",
+      "creationTimestamp": "Date"
+    }
+  },
+  "offers": {
+    "main": {
+      "title": "Offers",
+      "create_new": "Create new offer",
+      "add": "Add Offers",
+      "delete": "Delete",
+      "update": "Update",
+      "create": "Create",
+      "go_back": "Go back to list",
+      "edit": "Edit Offer",
+      "new": "New Offer"
+    },
+    "table": {
+      "information": "OFFER INFORMATION",
+      "description": "DESCRIPTION",
+      "name": "NAME",
+      "order": "ORDER",
+      "id": "ID",
+      "actions": "ACTIONS"
+    },
+    "filter": {
+      "keyword": "Keyword search (gtin, ref, title, manufacturer)...",
+      "advancedBtn": "Advanced filters",
+      "clearBtn": "Clear filters",
+      "search": "Search"
+    },
+    "createoffer": {
+      "createnew": "+ Add new service"
+    }
+  },
+  "pageNotFound": {
+    "notFound": "Sorry ! Page not found"
+  },
+  "product": {
+    "main": {
+      "createNew": "+ Create new product"
+    },
+    "table": {
+      "information": "Product information",
+      "manufacturer": "Manufacturer",
+      "gtin": "Gtin",
+      "title": "Title",
+      "category": "Category",
+      "id": "Id",
+      "tradeItemManufacturerCode": "MPN",
+      "languagesAvailable": "Languages",
+      "precomputing": "Precomputing",
+      "precomputingStatus": "Precomputing status",
+      "actions": "Actions"
+    },
+    "filter": {
+      "keyword": "Keyword search (gtin, ref, title, manufacturer)...",
+      "advancedBtn": "Advanced filters",
+      "clearBtn": "Clear filters"
+    }
+  },
+  "retailer": {
+    "main": {
+      "title": "Offers",
+      "create_new": "Create new offer",
+      "add": "Add Offers",
+      "delete": "Delete",
+      "update": "Update",
+      "create": "Create",
+      "go_back": "Go back to list",
+      "edit": "Edit",
+      "new": "New Offer"
+    },
+    "table": {
+      "information": "offer information",
+      "description": "Description",
+      "retailer": "Retailer",
+      "offer": "Offer",
+      "min_nb_of_trade_items": "Min. nb of trade items",
+      "max_nb_of_trade_items": "Max. nb of trade items",
+      "nb_of_connectors": "Nb of Retailers",
+      "order": "order",
+      "id": "ID",
+      "action": "Actions",
+      "name": "Name",
+      "type": "Type",
+      "retailers": "retailers",
+      "target_market": "Target Market",
+      "status": "Status",
+      "visibility": "Visibility",
+      "sent_by_Retailer": "Sent by Manu.",
+      "release_date": "Release Date"
+    },
+    "filter": {
+      "keyword": "keyword search (gtin, ref, title, Retailer)...",
+      "advancedbtn": "advanced filters",
+      "clearbtn": "clear filters",
+      "search": "search"
+    },
+    "add_edit": {
+      "id": "ID",
+      "retailers": "Retailers",
+      "offers": "Offers",
+      "type": "Type",
+      "scopes": "Scopes",
+      "status": "Status",
+      "visibility": "Visibility",
+      "release_date": "Release Date",
+      "discontinued_date": "Discontinued Date",
+      "sent_by_Retailer_himself": "Sent by Retailer himself",
+      "clearbtn": "clear filters",
+      "search": "search",
+      "authorized_manufacturers": "Authorized Manufacturers",
+      "inventorysource": "Inventory/Enrichment Source",
+      "newsource": "Create New Source",
+      "name": "Name*",
+      "code": "Code*",
+      "group": "Group*",
+      "target_markets": "Target Markets",
+      "authorized_Retailers": "Authorized Retailers",
+      "export_actions": "Export actions",
+      "external_id": "External ID",
+      "resource_base_url": "Resource base URL",
+      "allow_videos": "Allow videos"
+    },
+    "modal": {
+      "name": "Name*",
+      "description": "Description*",
+      "retailer": "Retailer*",
+      "matrix_mapping": "Matrix mapping*",
+      "is_csv": "Is CSV?",
+      "ftp_connection_settings": "FTP connection settings",
+      "url": "URL *",
+      "username": "Username *",
+      "path": "Path *",
+      "password": "Password *"
+    }
+  },
+  "subscriptions": {
+    "main": {
+      "title": "Subscriptions",
+      "create_new": "Create New Subscription",
+      "add": "Add Subscription",
+      "delete": "Delete",
+      "update": "Update",
+      "create": "Create",
+      "go_back": "Go back to list",
+      "edit": "Edit Subscription",
+      "new": "New Subscription"
+    },
+    "table": {
+      "information": "offer information",
+      "description": "description",
+      "manufacturer": "Manufacturer",
+      "offer": "Offer",
+      "min_nb_of_trade_items": "Min. nb of trade items",
+      "max_nb_of_trade_items": "Max. nb of trade items",
+      "nb_of_connectors": "Nb of connectors",
+      "order": "order",
+      "id": "ID",
+      "actions": "Actions"
+    },
+    "filter": {
+      "keyword": "keyword search (gtin, ref, title, manufacturer)...",
+      "advancedbtn": "advanced filters",
+      "clearbtn": "clear filters",
+      "search": "search"
+    },
+    "add_edit": {
+      "id": "ID",
+      "manufacturer": "Manufacturer",
+      "offer": "Offer",
+      "min_nb_of_trade_items": "Min. nb of trade items",
+      "max_nb_of_trade_items": "Max. nb of trade items",
+      "nb_of_connectors": "Number of connectors",
+      "clearbtn": "clear filters",
+      "search": "search"
+    }
+  },
+  "tradeItemCrud": {
+    "create": {
+      "title": "Create new product",
+      "actionButtonCancel": "Cancel",
+      "actionButtonApply": "Create product",
+      "gtin": "Gtin",
+      "tradeItemManufacturerCode": "Manufacturer reference",
+      "manufacturerEntity": "Entity"
+    },
+    "update": {
+      "title": "Update product",
+      "areYouSure": "Warning : You did not save your changes, are you sure you want to leave this page?",
+      "goToProduct": "Go to product",
+      "actionButtonCancel": "Cancel",
+      "actionButtonApply": "Update product"
+    },
+    "preCompute": {
+      "title": "Pre-compute",
+      "created": "The precomputed has been created",
+      "failed": "The precomputed was failed"
+    },
+    "delete": {
+      "title": "Delete product",
+      "areYouSure": "Are you sure to delete the product?",
+      "actionButtonCancel": "Cancel"
+    },
+    "groups": {
+      "Marketing": "Marketing",
+      "Pricing": "Pricing",
+      "Logistic": "Logistic",
+      "Translations": "Translations",
+      "Images": "Images",
+      "Documents": "Documents",
+      "MediaInformations": "Media campain",
+      "Status": "Status"
+    },
+    "lastestActions": {
+      "title": "Lastest actions",
+      "persisted": "Saved",
+      "status": "Action",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "timestamp": "Date"
+    },
+    "channel": {
+      "title": "Channel management",
+      "modalTitle": "Manage channels group",
+      "modalTargetMarket": "Target markets",
+      "modalRetailer": "Retailers",
+      "modalStartDate": "Start date",
+      "modalEndDate": "End date",
+      "modalAdd": "Add to list",
+      "modalModify": "Modify channel",
+      "modalNoChannel": "No channel added yet.",
+      "modalApply": "Apply",
+      "modalCancel": "Cancel",
+      "modalNoTargetMarket": "All target markets",
+      "modalNoRetailer": "All retailers",
+      "modalNoStartDate": "No start date",
+      "modalNoEndDate": "No end date",
+      "modalCannotAdd": "Empty channel cannot be added to the list.",
+      "modalEmptyGroup": "No channels supplied.",
+      "noChannel": "Default data (public)"
+    },
+    "collection": {
+      "title": "Collections"
+    },
+    "variant": {
+      "title": "Variant Management",
+      "modalTitle": "Variant Management group",
+      "edition": "Edition",
+      "platform": "Platform",
+      "modalTargetMarket": "Target markets",
+      "modalRetailer": "Retailers",
+      "modalStartDate": "Start date",
+      "modalEndDate": "End date",
+      "modalAdd": "Add to list",
+      "modalModify": "Modify channel",
+      "modalNoChannel": "No channel added yet.",
+      "modalApply": "Apply",
+      "modalCancel": "Cancel",
+      "modalNoTargetMarket": "All target markets",
+      "modalNoRetailer": "All retailers",
+      "modalNoStartDate": "No start date",
+      "modalNoEndDate": "No end date",
+      "modalCannotAdd": "Empty channel cannot be added to the list.",
+      "modalEmptyGroup": "No channels supplied.",
+      "noChannel": "Default data (public)",
+      "confirmDelete": "Are you sure to delete this variant?",
+      "confirmDeleteYes": "OK",
+      "confirmDeleteNo": "Cancel"
+    },
+    "identity": {
+      "title": "Identities",
+      "modalTitle": "Identity Management group",
+      "gtin": "Gtin",
+      "manufacturerCode": "Manufacturer Code",
+      "marketCode": "Market Code",
+      "modalTargetMarket": "Target markets",
+      "modalRetailer": "Retailers",
+      "modalStartDate": "Start date",
+      "modalEndDate": "End date",
+      "modalAdd": "Add to list",
+      "modalModify": "Modify channel",
+      "modalNoChannel": "No channel added yet.",
+      "modalApply": "Apply",
+      "modalCancel": "Cancel",
+      "modalNoTargetMarket": "All target markets",
+      "modalNoRetailer": "All retailers",
+      "modalNoStartDate": "No start date",
+      "modalNoEndDate": "No end date",
+      "modalCannotAdd": "Empty channel cannot be added to the list.",
+      "modalEmptyGroup": "No channels supplied.",
+      "noChannel": "Default data (public)"
+    },
+    "distribution": {
+      "title": "Distribution",
+      "viewDistributionStatus": "Calculate distribution eligibility"
+    },
+    "properties": {
+      "addDefaultValues": "Add default values",
+      "addChannelManaged": "Add channel managed information",
+      "addNew": "Add new properties"
+    },
+    "images": {
+      "drag": "Drag your images here...",
+      "drop": "Drop your image(s)!",
+      "reject": "Wrong format (jpg, jpeg, png, tiff)",
+      "nb": " image(s) to upload",
+      "trigger": "Upload",
+      "addDefaultValues": "Add default images"
+    },
+    "media": {
+      "drag": "Drag your files here...",
+      "drop": "Drop your file(s)!",
+      "reject": "Wrong format",
+      "nb": " file(s) to upload",
+      "trigger": "Upload",
+      "addDefaultValues": "Add new files",
+      "update": "Update",
+      "cancel": "Cancel",
+      "allCategories": "All categories",
+      "child": "Child Image",
+      "manuallyImported": "Manually imported",
+      "notDefinitive": "Not definitive",
+      "notExportable": "Not exportable"
+    },
+    "translations": {
+      "title": "Translations",
+      "alreadyExists": "This language already exists: ",
+      "goBack": "Back to defaults values",
+      "remove": "Delete",
+      "areYouSure": "Are you sure to remove this translation from the product: ",
+      "cancel": "Cancel",
+      "defaultLanguageCode": "Default language"
+    },
+    "persistence": {
+      "creating": "Creating...",
+      "updating": "Updating...",
+      "step": "Step",
+      "step1": "Sending metadata",
+      "step2": "Medias persistence",
+      "step3": "Uploading images",
+      "step4": "Uploading documents",
+      "step5": "Updating medias metadata",
+      "productUpdateSuccess": "Product successfully updated",
+      "productUpdateFailure": "Error, some information could not be saved",
+      "productCreateSuccess": "Product successfully created",
+      "productCreateFailure": "Error, product has not been created correctly",
+      "TRADE_ITEM_ALREADY_EXISTS": "This product already exist."
+    },
+    "pricing": {
+      "remove": "Remove this price",
+      "add": "Add new price",
+      "na": "N/A"
+    }
+  },
+  "tradeItemProperties": {},
+  "transformation": {
+    "table": {
+      "information": "Transform information",
+      "id": "Id",
+      "name": "Name",
+      "actions": "Actions"
+    },
+    "main": {
+      "createNew": "Create new transformation set"
+    }
+  },
+  "uploadMatrix": {
+    "title": "Upload matrix",
+    "subtitle": "Create or modify your products",
+    "hint": "You can directly drag and drop a matrix below to create/update your products online.",
+    "drag": "Drag your matrix or click here...",
+    "drop": "Drop it!",
+    "reject": "Wrong format (xls, xlsx accepted)",
+    "mb": "Mb",
+    "trigger": "Run the import",
+    "selectEntity": "Please select the configuration",
+    "success": "Import started",
+    "seeImport": "Follow the import"
+  },
+  "video": {
+    "table": {
+      "title": "Title",
+      "gtin": "GTIN",
+      "retailersSku": "Retailer SKU",
+      "tradeItems": "Trade Items",
+      "categories": "Categories",
+      "languages": "Languages",
+      "rating": "Rating (PEGI, USK, ESRB)",
+      "retailer": "Exclusive retailers"
+    },
+    "filter": {
+      "advancedBtn": "Advanced filters",
+      "clearBtn": "Clear filters",
+      "freeText": "Free text",
+      "fileName": "File name",
+      "tradeItemMpns": "MPN",
+      "category": "Category",
+      "language": "Language",
+      "tag": "Tag",
+      "widthMin": "Width min",
+      "widthMax": "Width max",
+      "heightMin": "Height min",
+      "heightMax": "Height max",
+      "censor": "Censor",
+      "retailerId": "Retailer ID",
+      "manufacturerId": "Manufacturer ID",
+      "updatedDateStart": "Last updated start",
+      "updatedDateEnd": "Last updated end"
+    },
+    "edit": {
+      "title": "Edit video",
+      "cancel": "Cancel",
+      "update": "Update",
+      "typeToSearchProduct": "Type to search product"
+    }
+  }
+}

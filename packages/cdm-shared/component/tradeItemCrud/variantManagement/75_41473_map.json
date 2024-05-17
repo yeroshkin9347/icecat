@@ -1,0 +1,282 @@
+[
+  {
+    "75": "Android",
+    "41473": "Android"
+  },
+  {
+    "75": "Windows",
+    "41473": "PC"
+  },
+  {
+    "75": "Mac",
+    "41473": "Mac"
+  },
+  {
+    "75": "Linux",
+    "41473": "Linux"
+  },
+  {
+    "75": "iOS",
+    "41473": "IOS"
+  },
+  {
+    "75": "Android/iOS",
+    "41473": "Android/iOS"
+  },
+  {
+    "75": "Autres",
+    "41473": "Autres"
+  },
+  {
+    "75": "Dreamcast",
+    "41473": "Dreamcast"
+  },
+  {
+    "75": "DVD Video",
+    "41473": "DVD Video"
+  },
+  {
+    "75": "Game Boy",
+    "41473": "Game Boy"
+  },
+  {
+    "75": "Game Boy Advance",
+    "41473": "Game Boy Advance"
+  },
+  {
+    "75": "LeapPad",
+    "41473": "LeapPad"
+  },
+  {
+    "75": "LeapTV",
+    "41473": "LeapTV"
+  },
+  {
+    "75": "Mac/Linux",
+    "41473": "Mac/Linux"
+  },
+  {
+    "75": "Neo Geo",
+    "41473": "Neo Geo"
+  },
+  {
+    "75": "New Nintendo 3DS",
+    "41473": "New Nintendo 3DS"
+  },
+  {
+    "75": "Nintendo 2DS",
+    "41473": "Nintendo 2DS"
+  },
+  {
+    "75": "Nintendo 3DS",
+    "41473": "Nintendo 3DS"
+  },
+  {
+    "75": "Nintendo 3DS XL",
+    "41473": "Nintendo 3DS XL"
+  },
+  {
+    "75": "Nintendo 64",
+    "41473": "Nintendo 64"
+  },
+  {
+    "75": "Nintendo DS",
+    "41473": "Nintendo DS"
+  },
+  {
+    "75": "Nintendo DSi",
+    "41473": "Nintendo DSi"
+  },
+  {
+    "75": "Nintendo DSi XL",
+    "41473": "Nintendo DSi XL"
+  },
+  {
+    "75": "Nintendo Entertainment System",
+    "41473": "Nintendo Entertainment System"
+  },
+  {
+    "75": "Nintendo GameCube",
+    "41473": "Nintendo GameCube"
+  },
+  {
+    "75": "Nintendo Switch",
+    "41473": "Nintendo Switch"
+  },
+  {
+    "75": "Nintendo Wii Virtual Console",
+    "41473": "Nintendo Wii Virtual Console"
+  },
+  {
+    "75": "PC",
+    "41473": "PC"
+  },
+  {
+    "75": "PC/Mac",
+    "41473": "PC/Mac"
+  },
+  {
+    "75": "PC/Mac/Linux",
+    "41473": "PC/Mac/Linux"
+  },
+  {
+    "75": "PlayStation",
+    "41473": "PlayStation"
+  },
+  {
+    "75": "PlayStation 2",
+    "41473": "PlayStation 2"
+  },
+  {
+    "75": "PlayStation 3",
+    "41473": "PlayStation 3"
+  },
+  {
+    "75": "PlayStation 4",
+    "41473": "PlayStation 4"
+  },
+  {
+    "75": "PlayStation 4 Pro",
+    "41473": "PlayStation 4 Pro"
+  },
+  {
+    "75": "PlayStation Network",
+    "41473": "PlayStation Network"
+  },
+  {
+    "75": "PlayStation Portable (PSP)",
+    "41473": "PlayStation Portable (PSP)"
+  },
+  {
+    "75": "PlayStation Vita",
+    "41473": "PlayStation Vita"
+  },
+  {
+    "75": "PS One",
+    "41473": "PS One"
+  },
+  {
+    "75": "Super Nintendo Entertainment System",
+    "41473": "Super Nintendo Entertainment System"
+  },
+  {
+    "75": "Wii",
+    "41473": "WII"
+  },
+  {
+    "75": "Wii U",
+    "41473": "Wii U"
+  },
+  {
+    "75": "Xbox",
+    "41473": "XBOX"
+  },
+  {
+    "75": "Xbox 360",
+    "41473": "XBOX 360"
+  },
+  {
+    "75": "Xbox Live",
+    "41473": "Xbox Live"
+  },
+  {
+    "75": "Xbox One",
+    "41473": "XBOX One"
+  },
+  {
+    "75": "Xbox One X",
+    "41473": "Xbox One X"
+  },
+  {
+    "75": "Evercade",
+    "41473": "Evercade"
+  },
+  {
+    "75": "PlayStation 5",
+    "41473": "PlayStation 5"
+  },
+  {
+    "75": "Xbox Series S",
+    "41473": "Xbox Series S"
+  },
+  {
+    "75": "Xbox Series X",
+    "41473": "Xbox Series X"
+  },
+  {
+    "75": "PC/Playstation/Xbox",
+    "41473": "PC/Playstation/Xbox"
+  },
+  {
+    "75": "Nintendo DS/2DS/3DS",
+    "41473": "Nintendo DS/2DS/3DS"
+  },
+  {
+    "75": "Xbox One/One S/Series X/S",
+    "41473": "Xbox One/One S/Series X/S"
+  },
+  {
+    "75": "Xbox Series X/Series S",
+    "41473": "Xbox Series X/Series S"
+  },
+  {
+    "75": "Xbox One/Xbox One S",
+    "41473": "Xbox One/Xbox One S"
+  },
+  {
+    "75": "Playstation 4/Playstation 5",
+    "41473": "Playstation 4/Playstation 5"
+  },
+  {
+    "75": "Xbox One/Xbox Series X",
+    "41473": "Xbox One/Xbox Series X"
+  },
+  {
+    "75": "Xbox One/Xbox Series X/Xbox Series S/PC",
+    "41473": "Xbox One/Xbox Series X/Xbox Series S/PC"
+  },
+  {
+    "75": "Xbox Series X/Xbox Series S/PC",
+    "41473": "Xbox Series X/Xbox Series S/PC"
+  },
+  {
+    "75": "PlayStation Portable go (PSP go)",
+    "41473": "Sony PSP"
+  },
+  {
+    "75": "PlayStation Vita (PSVita)",
+    "41473": "PSvita"
+  },
+  {
+    "75": "Nintendo Wii U",
+    "41473": "WiiU"
+  },
+  {
+    "75": "Nintendo 2DS XL",
+    "41473": "2DS"
+  },
+  {
+    "75": "Nintendo Game Boy Advance",
+    "41473": "GameBoy Advance"
+  },
+  {
+    "75": "Nintendo Game Boy",
+    "41473": "GameBoy"
+  },
+  {
+    "75": "PlayStation 1",
+    "41473": "Sony Playstation"
+  },
+  {
+    "75": "PlayStation 3/PlayStation 4/PlayStation Vita",
+    "41473": "PS3"
+  },
+  {
+    "75": "PlayStation 4/PlayStation 5",
+    "41473": "PS4"
+  },
+  {
+    "75": "New Nintendo 3DS XL",
+    "41473": "3DS"
+  }
+ ]

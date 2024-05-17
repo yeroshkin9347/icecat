@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src"
+  },
+  "include": [
+    "src",
+    "cdm-shared/component/Tabs.js",
+    "cdm-shared/component/htmlEditor",
+    "cdm-shared/component/Logo.js",
+    "cdm-shared/component/messaging/MessagingLink.js",
+    "cdm-shared/component/product/filter/Filters.js",
+    "cdm-shared/component/product/filter/ToyFilters.js",
+    "cdm-shared/component/calendars"]
+}

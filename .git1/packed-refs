@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+523b2ef0c4a5eb997f2b7dd4ec1f7760ef9e6ada refs/remotes/origin/fix/cs-2184-update-manufacturer-code-translate
+0ef8e34ebb37af9821798112e534cc792a82dcd7 refs/remotes/origin/fix/cs-2656-standard-send-template-by-email-action-doesnt-work
+50ecd441e4d0681f27215754a695ee533abec899 refs/remotes/origin/master

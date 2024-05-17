@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 bf1f1fe8e611759ee0bd48064053d86a5c00c989 Carlo <carlo.verdi99@outlook.com> 1715062152 +0200	branch: Created from HEAD
+bf1f1fe8e611759ee0bd48064053d86a5c00c989 dc000f68ad1f82b2f30ba70f10756f084aa0e616 Carlo <carlo.verdi99@outlook.com> 1715062194 +0200	commit: CS-2641: Fix multiple marketings created with same channel
+dc000f68ad1f82b2f30ba70f10756f084aa0e616 6339a65ccb9fc5526e2f342a7799cae35e3f7317 Carlo <carlo.verdi99@outlook.com> 1715089479 +0200	commit: CS-2641: updated code
+6339a65ccb9fc5526e2f342a7799cae35e3f7317 c5c30764b3b5ad6cac41fc05bf497058bf8d74b7 Carlo <carlo.verdi99@outlook.com> 1715090644 +0200	commit: CS-2641: updated code
+c5c30764b3b5ad6cac41fc05bf497058bf8d74b7 b8267eb863efdd87f95f5cc657ffffcba6f721be Carlo <carlo.verdi99@outlook.com> 1715092804 +0200	commit: CS-2641: cleaned code
+b8267eb863efdd87f95f5cc657ffffcba6f721be 8201b31722ce189d29d667650729fa1d3b17904c Carlo <carlo.verdi99@outlook.com> 1715093173 +0200	commit: CS-2641: cleaned code
+8201b31722ce189d29d667650729fa1d3b17904c efc99ee76d847727709459e1ff75784e6d081792 Carlo <carlo.verdi99@outlook.com> 1715093454 +0200	pull origin master --rebase (finish): refs/heads/fix/catalog onto cf65c77da3e53aac23f4f0ddc32eb0f3fbcd3420
+efc99ee76d847727709459e1ff75784e6d081792 35e0fad4454b02ed1f04ca75b9e5f7d38de594e6 Carlo <carlo.verdi99@outlook.com> 1715093905 +0200	pull: Merge made by the 'ort' strategy.

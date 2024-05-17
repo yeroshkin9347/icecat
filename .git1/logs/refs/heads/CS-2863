@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 ff4ac73b0bd5f96e17467428a5925274979f69f0 Carlo <carlo.verdi99@outlook.com> 1715352672 +0200	branch: Created from HEAD
+ff4ac73b0bd5f96e17467428a5925274979f69f0 23dbefa260de0cb9727cd43f808cc46226bb5504 Carlo <carlo.verdi99@outlook.com> 1715352942 +0200	commit: updated favicon
+23dbefa260de0cb9727cd43f808cc46226bb5504 b57e1ee4fec23da734bf84c3bb172717b643a19c Carlo <carlo.verdi99@outlook.com> 1715619520 +0200	pull origin master --rebase (finish): refs/heads/CS-2863 onto b57e1ee4fec23da734bf84c3bb172717b643a19c
+b57e1ee4fec23da734bf84c3bb172717b643a19c 71fa61990071f19303c6d87f8354f4738d430699 Carlo <carlo.verdi99@outlook.com> 1715619572 +0200	commit: feat: updated favicon with external svg file link
+71fa61990071f19303c6d87f8354f4738d430699 b57e1ee4fec23da734bf84c3bb172717b643a19c Carlo <carlo.verdi99@outlook.com> 1715619851 +0200	reset: moving to b57e1ee4fec23da734bf84c3bb172717b643a19c
+b57e1ee4fec23da734bf84c3bb172717b643a19c 22c7e679fde988886f8f310b8ef26451c2acb145 Carlo <carlo.verdi99@outlook.com> 1715619861 +0200	commit: feat: updated favicon with external svg file link

@@ -1,0 +1,107 @@
+.row-space-between {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.auto-mapping-table > thead > tr > th {
+  padding: 6px;
+}
+
+.table-auto-mapping-column-name {
+  padding: 8px;
+}
+
+.auto-mapping-table > thead > tr > th, td {
+  border: 1px solid #dee2e6;
+}
+
+.auto-mapping-table-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  margin-top: 16px;
+}
+
+.show-only-not-mapped-checkbox{
+  margin-bottom: 16px;
+}
+
+.custom-control-input {
+  margin-right: 8px;
+}
+
+.bg-success {
+  background-color: #71f3ca !important;
+}
+
+a.bg-success:hover, a.bg-success:focus,
+button.bg-success:hover,
+button.bg-success:focus {
+  background-color: #42efb8 !important;
+}
+
+.text-white {
+  color: #fff !important;
+}
+
+
+.select-mapping-tab {
+  display: flex;
+  flex: 1;
+  margin-right: 16px;;
+}
+
+.datagrid-disabled-row {
+  background-color: #dddddd  !important;
+}
+
+.datagrid-disabled-row .MuiDataGrid-cell--editing {
+  background-color: #dddddd  !important;
+}
+
+.price-matrix-analysis-datagrid .MuiDataGrid-cell {
+  padding-left: 16px !important;
+  padding-right: 16px !important;
+}
+
+.price-matrix-analysis-datagrid .MuiInputBase-input {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.price-matrix-analysis-datagrid .MuiDataGrid-columnHeader:focus-within,
+.price-matrix-analysis-datagrid .MuiDataGrid-cell--editing:focus-visible,
+.price-matrix-analysis-datagrid .MuiDataGrid-cell.MuiDataGrid-cell--editing:focus-within {
+  outline: none !important;
+}
+
+.select-mapping-tab .react-select-full-height {
+  flex: 1;
+}
+
+.price-matrix-analysis-ignored-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px;
+}
+
+.price-matrix-analysis-ignored-checkbox {
+  width: 16px;
+  height: 16px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.price-matrix-analysis-ignored-header-checkbox {
+  margin-right: 8px;
+}
+
+
+.price-matrix-analysis-input {
+  background-color: #fff;
+}

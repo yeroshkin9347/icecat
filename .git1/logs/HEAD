@@ -1,0 +1,63 @@
+0000000000000000000000000000000000000000 50ecd441e4d0681f27215754a695ee533abec899 Carlo <carlo.verdi99@outlook.com> 1714660080 +0200	clone: from risk.github.com:superhero2007/cedemo.front.git
+50ecd441e4d0681f27215754a695ee533abec899 bf1f1fe8e611759ee0bd48064053d86a5c00c989 Carlo <carlo.verdi99@outlook.com> 1715027068 +0200	pull: Fast-forward
+bf1f1fe8e611759ee0bd48064053d86a5c00c989 23a6c6eee77091a9d7b247b17bc8af990cda38f7 Carlo <carlo.verdi99@outlook.com> 1715030261 +0200	commit: CS-2641 Fix multiple marketings created with same channel
+23a6c6eee77091a9d7b247b17bc8af990cda38f7 bf1f1fe8e611759ee0bd48064053d86a5c00c989 Carlo <carlo.verdi99@outlook.com> 1715062133 +0200	reset: moving to bf1f1fe8e611759ee0bd48064053d86a5c00c989
+bf1f1fe8e611759ee0bd48064053d86a5c00c989 bf1f1fe8e611759ee0bd48064053d86a5c00c989 Carlo <carlo.verdi99@outlook.com> 1715062152 +0200	checkout: moving from master to fix/catalog
+bf1f1fe8e611759ee0bd48064053d86a5c00c989 dc000f68ad1f82b2f30ba70f10756f084aa0e616 Carlo <carlo.verdi99@outlook.com> 1715062194 +0200	commit: CS-2641: Fix multiple marketings created with same channel
+dc000f68ad1f82b2f30ba70f10756f084aa0e616 bf1f1fe8e611759ee0bd48064053d86a5c00c989 Carlo <carlo.verdi99@outlook.com> 1715062219 +0200	checkout: moving from fix/catalog to master
+bf1f1fe8e611759ee0bd48064053d86a5c00c989 bf1f1fe8e611759ee0bd48064053d86a5c00c989 Carlo <carlo.verdi99@outlook.com> 1715062236 +0200	reset: moving to HEAD
+bf1f1fe8e611759ee0bd48064053d86a5c00c989 dc000f68ad1f82b2f30ba70f10756f084aa0e616 Carlo <carlo.verdi99@outlook.com> 1715062242 +0200	checkout: moving from master to fix/catalog
+dc000f68ad1f82b2f30ba70f10756f084aa0e616 6339a65ccb9fc5526e2f342a7799cae35e3f7317 Carlo <carlo.verdi99@outlook.com> 1715089479 +0200	commit: CS-2641: updated code
+6339a65ccb9fc5526e2f342a7799cae35e3f7317 c5c30764b3b5ad6cac41fc05bf497058bf8d74b7 Carlo <carlo.verdi99@outlook.com> 1715090644 +0200	commit: CS-2641: updated code
+c5c30764b3b5ad6cac41fc05bf497058bf8d74b7 b8267eb863efdd87f95f5cc657ffffcba6f721be Carlo <carlo.verdi99@outlook.com> 1715092804 +0200	commit: CS-2641: cleaned code
+b8267eb863efdd87f95f5cc657ffffcba6f721be 8201b31722ce189d29d667650729fa1d3b17904c Carlo <carlo.verdi99@outlook.com> 1715093173 +0200	commit: CS-2641: cleaned code
+8201b31722ce189d29d667650729fa1d3b17904c cf65c77da3e53aac23f4f0ddc32eb0f3fbcd3420 Carlo <carlo.verdi99@outlook.com> 1715093454 +0200	pull origin master --rebase (start): checkout cf65c77da3e53aac23f4f0ddc32eb0f3fbcd3420
+cf65c77da3e53aac23f4f0ddc32eb0f3fbcd3420 7fefa7589c043f4eff69817eff45a66910cd25c2 Carlo <carlo.verdi99@outlook.com> 1715093454 +0200	pull origin master --rebase (pick): CS-2641: cleaned code
+7fefa7589c043f4eff69817eff45a66910cd25c2 efc99ee76d847727709459e1ff75784e6d081792 Carlo <carlo.verdi99@outlook.com> 1715093454 +0200	pull origin master --rebase (pick): CS-2641: cleaned code
+efc99ee76d847727709459e1ff75784e6d081792 efc99ee76d847727709459e1ff75784e6d081792 Carlo <carlo.verdi99@outlook.com> 1715093454 +0200	pull origin master --rebase (finish): returning to refs/heads/fix/catalog
+efc99ee76d847727709459e1ff75784e6d081792 35e0fad4454b02ed1f04ca75b9e5f7d38de594e6 Carlo <carlo.verdi99@outlook.com> 1715093905 +0200	pull: Merge made by the 'ort' strategy.
+35e0fad4454b02ed1f04ca75b9e5f7d38de594e6 35e0fad4454b02ed1f04ca75b9e5f7d38de594e6 Carlo <carlo.verdi99@outlook.com> 1715157648 +0200	checkout: moving from fix/catalog to CS-2862
+35e0fad4454b02ed1f04ca75b9e5f7d38de594e6 bf1f1fe8e611759ee0bd48064053d86a5c00c989 Carlo <carlo.verdi99@outlook.com> 1715157659 +0200	checkout: moving from CS-2862 to master
+bf1f1fe8e611759ee0bd48064053d86a5c00c989 bf1f1fe8e611759ee0bd48064053d86a5c00c989 Carlo <carlo.verdi99@outlook.com> 1715157682 +0200	checkout: moving from master to master
+bf1f1fe8e611759ee0bd48064053d86a5c00c989 7fac95d241e062aaf2a187989f92ff8fb7ffce4a Carlo <carlo.verdi99@outlook.com> 1715157688 +0200	pull origin master: Fast-forward
+7fac95d241e062aaf2a187989f92ff8fb7ffce4a 7fac95d241e062aaf2a187989f92ff8fb7ffce4a Carlo <carlo.verdi99@outlook.com> 1715157889 +0200	checkout: moving from master to CS-2862
+7fac95d241e062aaf2a187989f92ff8fb7ffce4a 1e3a26bb5a9ef01b7731f152323a8c252de48f0d Carlo <carlo.verdi99@outlook.com> 1715163013 +0200	commit: feat: updated logo
+1e3a26bb5a9ef01b7731f152323a8c252de48f0d 7fac95d241e062aaf2a187989f92ff8fb7ffce4a Carlo <carlo.verdi99@outlook.com> 1715163043 +0200	checkout: moving from CS-2862 to master
+7fac95d241e062aaf2a187989f92ff8fb7ffce4a 7fac95d241e062aaf2a187989f92ff8fb7ffce4a Carlo <carlo.verdi99@outlook.com> 1715163067 +0200	checkout: moving from master to CS-2863
+7fac95d241e062aaf2a187989f92ff8fb7ffce4a 7fac95d241e062aaf2a187989f92ff8fb7ffce4a Carlo <carlo.verdi99@outlook.com> 1715174073 +0200	checkout: moving from CS-2863 to master
+7fac95d241e062aaf2a187989f92ff8fb7ffce4a 7fac95d241e062aaf2a187989f92ff8fb7ffce4a Carlo <carlo.verdi99@outlook.com> 1715174079 +0200	checkout: moving from master to CS-2864
+7fac95d241e062aaf2a187989f92ff8fb7ffce4a 1e3a26bb5a9ef01b7731f152323a8c252de48f0d Carlo <carlo.verdi99@outlook.com> 1715240861 +0200	checkout: moving from CS-2864 to CS-2862
+1e3a26bb5a9ef01b7731f152323a8c252de48f0d 3c6dbfda3ba030ea1ed14506800e19b735a703fb Carlo <carlo.verdi99@outlook.com> 1715337049 +0200	commit: feat: updated logo for CMS
+3c6dbfda3ba030ea1ed14506800e19b735a703fb 7fac95d241e062aaf2a187989f92ff8fb7ffce4a Carlo <carlo.verdi99@outlook.com> 1715352634 +0200	checkout: moving from CS-2862 to CS-2863
+7fac95d241e062aaf2a187989f92ff8fb7ffce4a 7fac95d241e062aaf2a187989f92ff8fb7ffce4a Carlo <carlo.verdi99@outlook.com> 1715352654 +0200	checkout: moving from CS-2863 to master
+7fac95d241e062aaf2a187989f92ff8fb7ffce4a ff4ac73b0bd5f96e17467428a5925274979f69f0 Carlo <carlo.verdi99@outlook.com> 1715352660 +0200	pull origin master: Fast-forward
+ff4ac73b0bd5f96e17467428a5925274979f69f0 ff4ac73b0bd5f96e17467428a5925274979f69f0 Carlo <carlo.verdi99@outlook.com> 1715352672 +0200	checkout: moving from master to CS-2863
+ff4ac73b0bd5f96e17467428a5925274979f69f0 23dbefa260de0cb9727cd43f808cc46226bb5504 Carlo <carlo.verdi99@outlook.com> 1715352942 +0200	commit: updated favicon
+23dbefa260de0cb9727cd43f808cc46226bb5504 3c6dbfda3ba030ea1ed14506800e19b735a703fb Carlo <carlo.verdi99@outlook.com> 1715588028 +0200	checkout: moving from CS-2863 to CS-2862
+3c6dbfda3ba030ea1ed14506800e19b735a703fb b57e1ee4fec23da734bf84c3bb172717b643a19c Carlo <carlo.verdi99@outlook.com> 1715619506 +0200	pull origin master --rebase (start): checkout b57e1ee4fec23da734bf84c3bb172717b643a19c
+b57e1ee4fec23da734bf84c3bb172717b643a19c b57e1ee4fec23da734bf84c3bb172717b643a19c Carlo <carlo.verdi99@outlook.com> 1715619506 +0200	pull origin master --rebase (finish): returning to refs/heads/CS-2862
+b57e1ee4fec23da734bf84c3bb172717b643a19c 23dbefa260de0cb9727cd43f808cc46226bb5504 Carlo <carlo.verdi99@outlook.com> 1715619509 +0200	checkout: moving from CS-2862 to CS-2863
+23dbefa260de0cb9727cd43f808cc46226bb5504 b57e1ee4fec23da734bf84c3bb172717b643a19c Carlo <carlo.verdi99@outlook.com> 1715619520 +0200	pull origin master --rebase (start): checkout b57e1ee4fec23da734bf84c3bb172717b643a19c
+b57e1ee4fec23da734bf84c3bb172717b643a19c b57e1ee4fec23da734bf84c3bb172717b643a19c Carlo <carlo.verdi99@outlook.com> 1715619520 +0200	pull origin master --rebase (finish): returning to refs/heads/CS-2863
+b57e1ee4fec23da734bf84c3bb172717b643a19c 71fa61990071f19303c6d87f8354f4738d430699 Carlo <carlo.verdi99@outlook.com> 1715619572 +0200	commit: feat: updated favicon with external svg file link
+71fa61990071f19303c6d87f8354f4738d430699 b57e1ee4fec23da734bf84c3bb172717b643a19c Carlo <carlo.verdi99@outlook.com> 1715619851 +0200	reset: moving to b57e1ee4fec23da734bf84c3bb172717b643a19c
+b57e1ee4fec23da734bf84c3bb172717b643a19c 22c7e679fde988886f8f310b8ef26451c2acb145 Carlo <carlo.verdi99@outlook.com> 1715619861 +0200	commit: feat: updated favicon with external svg file link
+22c7e679fde988886f8f310b8ef26451c2acb145 b57e1ee4fec23da734bf84c3bb172717b643a19c Carlo <carlo.verdi99@outlook.com> 1715619870 +0200	checkout: moving from CS-2863 to CS-2862
+b57e1ee4fec23da734bf84c3bb172717b643a19c a7bab23b2e0d7b32a46dd9576f6cb4c0930391b9 Carlo <carlo.verdi99@outlook.com> 1715620013 +0200	commit: feat: updated logo with external svg file link
+a7bab23b2e0d7b32a46dd9576f6cb4c0930391b9 cbcfbaf7d94c0c21ffa7e6bcf40bd76eb5569099 Carlo <carlo.verdi99@outlook.com> 1715622118 +0200	commit: fix: updated logo for dark and light theme
+cbcfbaf7d94c0c21ffa7e6bcf40bd76eb5569099 ff4ac73b0bd5f96e17467428a5925274979f69f0 Carlo <carlo.verdi99@outlook.com> 1715699404 +0200	checkout: moving from CS-2862 to master
+ff4ac73b0bd5f96e17467428a5925274979f69f0 19367b2598acafdc1609c62dbc70eab15ae87148 Carlo <carlo.verdi99@outlook.com> 1715699413 +0200	pull: Fast-forward
+19367b2598acafdc1609c62dbc70eab15ae87148 19367b2598acafdc1609c62dbc70eab15ae87148 Carlo <carlo.verdi99@outlook.com> 1715699428 +0200	checkout: moving from master to CS-2756
+19367b2598acafdc1609c62dbc70eab15ae87148 aa5724fa5a3490848176f9c88cc6313095f9af27 Carlo <carlo.verdi99@outlook.com> 1715702755 +0200	commit: fix: fixed issue to show collection in export list
+aa5724fa5a3490848176f9c88cc6313095f9af27 19367b2598acafdc1609c62dbc70eab15ae87148 Carlo <carlo.verdi99@outlook.com> 1715786335 +0200	checkout: moving from CS-2756 to master
+19367b2598acafdc1609c62dbc70eab15ae87148 d94ab609edfa804c3905e1b3e1354dce3ff5f5d7 Carlo <carlo.verdi99@outlook.com> 1715786341 +0200	pull: Fast-forward
+d94ab609edfa804c3905e1b3e1354dce3ff5f5d7 d94ab609edfa804c3905e1b3e1354dce3ff5f5d7 Carlo <carlo.verdi99@outlook.com> 1715786349 +0200	checkout: moving from master to hotfix/bug
+d94ab609edfa804c3905e1b3e1354dce3ff5f5d7 60150e570204301601e3304c5eebc9b320122826 Carlo <carlo.verdi99@outlook.com> 1715786868 +0200	commit: fix: updated translation text
+60150e570204301601e3304c5eebc9b320122826 d94ab609edfa804c3905e1b3e1354dce3ff5f5d7 Carlo <carlo.verdi99@outlook.com> 1715863859 +0200	checkout: moving from hotfix/bug to master
+d94ab609edfa804c3905e1b3e1354dce3ff5f5d7 8546fa24c7e82047a9209182e86f0768b3cc491e Carlo <carlo.verdi99@outlook.com> 1715863869 +0200	pull: Fast-forward
+8546fa24c7e82047a9209182e86f0768b3cc491e 60150e570204301601e3304c5eebc9b320122826 Carlo <carlo.verdi99@outlook.com> 1715863879 +0200	checkout: moving from master to hotfix/bug
+60150e570204301601e3304c5eebc9b320122826 8546fa24c7e82047a9209182e86f0768b3cc491e Carlo <carlo.verdi99@outlook.com> 1715863890 +0200	pull origin master --rebase (start): checkout 8546fa24c7e82047a9209182e86f0768b3cc491e
+8546fa24c7e82047a9209182e86f0768b3cc491e 8546fa24c7e82047a9209182e86f0768b3cc491e Carlo <carlo.verdi99@outlook.com> 1715863890 +0200	pull origin master --rebase (finish): returning to refs/heads/hotfix/bug
+8546fa24c7e82047a9209182e86f0768b3cc491e 910f8d73a76e60af7709f07da2831372501e880a Carlo <carlo.verdi99@outlook.com> 1715864425 +0200	commit: fix: made export readiness 0 if total count is 0
+910f8d73a76e60af7709f07da2831372501e880a 8546fa24c7e82047a9209182e86f0768b3cc491e Carlo <carlo.verdi99@outlook.com> 1715865000 +0200	checkout: moving from hotfix/bug to master
+8546fa24c7e82047a9209182e86f0768b3cc491e 8546fa24c7e82047a9209182e86f0768b3cc491e Carlo <carlo.verdi99@outlook.com> 1715871094 +0200	checkout: moving from master to CS-2558

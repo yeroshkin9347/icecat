@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 7fac95d241e062aaf2a187989f92ff8fb7ffce4a Carlo <carlo.verdi99@outlook.com> 1715157889 +0200	branch: Created from HEAD
+7fac95d241e062aaf2a187989f92ff8fb7ffce4a 1e3a26bb5a9ef01b7731f152323a8c252de48f0d Carlo <carlo.verdi99@outlook.com> 1715163013 +0200	commit: feat: updated logo
+1e3a26bb5a9ef01b7731f152323a8c252de48f0d 3c6dbfda3ba030ea1ed14506800e19b735a703fb Carlo <carlo.verdi99@outlook.com> 1715337049 +0200	commit: feat: updated logo for CMS
+3c6dbfda3ba030ea1ed14506800e19b735a703fb b57e1ee4fec23da734bf84c3bb172717b643a19c Carlo <carlo.verdi99@outlook.com> 1715619506 +0200	pull origin master --rebase (finish): refs/heads/CS-2862 onto b57e1ee4fec23da734bf84c3bb172717b643a19c
+b57e1ee4fec23da734bf84c3bb172717b643a19c a7bab23b2e0d7b32a46dd9576f6cb4c0930391b9 Carlo <carlo.verdi99@outlook.com> 1715620013 +0200	commit: feat: updated logo with external svg file link
+a7bab23b2e0d7b32a46dd9576f6cb4c0930391b9 cbcfbaf7d94c0c21ffa7e6bcf40bd76eb5569099 Carlo <carlo.verdi99@outlook.com> 1715622118 +0200	commit: fix: updated logo for dark and light theme

@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 d94ab609edfa804c3905e1b3e1354dce3ff5f5d7 Carlo <carlo.verdi99@outlook.com> 1715786349 +0200	branch: Created from HEAD
+d94ab609edfa804c3905e1b3e1354dce3ff5f5d7 60150e570204301601e3304c5eebc9b320122826 Carlo <carlo.verdi99@outlook.com> 1715786868 +0200	commit: fix: updated translation text
+60150e570204301601e3304c5eebc9b320122826 8546fa24c7e82047a9209182e86f0768b3cc491e Carlo <carlo.verdi99@outlook.com> 1715863890 +0200	pull origin master --rebase (finish): refs/heads/hotfix/bug onto 8546fa24c7e82047a9209182e86f0768b3cc491e
+8546fa24c7e82047a9209182e86f0768b3cc491e 910f8d73a76e60af7709f07da2831372501e880a Carlo <carlo.verdi99@outlook.com> 1715864425 +0200	commit: fix: made export readiness 0 if total count is 0

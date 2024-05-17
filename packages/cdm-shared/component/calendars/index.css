@@ -1,0 +1,18 @@
+.allday-calendar { 
+  height: 78vh;
+}
+
+.fc-h-event {
+  border-width: 0px !important;
+  overflow: hidden;
+}
+
+.event-publication-background {
+  background: repeating-linear-gradient(
+    135deg,
+    transparent,
+    transparent 10px,
+    #8cbcf8a1 10px,
+    #8cbcf8a1 20px
+  );
+}

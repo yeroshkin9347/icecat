@@ -1,0 +1,359 @@
+@font-face {
+    font-family: Montserrat;
+    src: url('./assets/fonts/Montserrat-Regular.ttf');
+}
+
+@font-face {
+    font-family: Montserrat-Medium;
+    src: url('./assets/fonts/Montserrat-Medium.ttf');
+}
+
+@font-face {
+    font-family: Montserrat-Bold;
+    src: url('./assets/fonts/Montserrat-Bold.ttf');
+}
+
+:root {
+    --input-color: #343741;
+    --input-bg: #FBFCFD;
+    --input-bg-focused: #E8EAED;
+    --input-bg-disabled: #EBEDEF;
+    --input-box-shadow: 0 0 transparent, inset 0 0 0 1px rgb(17 42 134 / 20%);
+    --input-transition: box-shadow 150ms ease-in,background-image 150ms ease-in,background-size 150ms ease-in,background-color 150ms ease-in;
+    --input-font-family: 'Inter', 'Roboto';
+}
+
+body,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.p,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+button,
+a,
+.MuiDataGrid-root {
+  font-family: Montserrat, sans-serif !important;
+}
+
+button {
+    border-radius: 4px;
+}
+
+a:active {
+    color: #212529;
+}
+
+input:not(:disabled):not([type="checkbox"]):not([type="radio"]):not([aria-autocomplete="list"]):not(.MuiInputBase-input) {
+    box-shadow: var(--input-box-shadow);
+    transition: var(--input-transition);
+    color: var(--input-color);
+    font-family: var(--input-font-family);
+}
+
+input:not(:disabled):not([type="checkbox"]):not([aria-autocomplete="list"]):not(.MuiInputBase-input):not(:focus) {
+    background-color: var(--input-bg);
+}
+
+textarea {
+    box-shadow: var(--input-box-shadow);
+    transition: var(--input-transition);
+    color: var(--input-color);
+    font-family: var(--input-font-family);
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.no-overflow {
+    overflow: hidden !important;
+    outline: none !important;
+}
+
+.no-overflow:focus {
+    outline: none !important;
+}
+
+.tippy-popper {
+    max-width: initial !important;
+}
+
+#input {
+    border: none;
+    background-color: transparent;
+    text-align: center !important;
+}
+
+.background-main {
+    background-color: rgb(247, 248, 252) !important;
+}
+
+.background-white{
+    background-color: #fff !important;
+}
+
+.rounded {
+    border-radius: 4px !important;
+}
+
+.MuiFilledInput-root {
+    min-height: 40px !important;
+}
+
+.MuiInputBase-hiddenLabel {
+    padding-top: 0 !important;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.react-select-full-height, .react-select-full-height__control, .react-select-full-height__value-container, .react-select-full-height__multi-value {
+    max-height: none !important;
+    height: auto !important;
+}
+
+.MuiDataGrid-root .MuiDataGrid-cell {
+    white-space: normal !important;
+    word-wrap: break-word !important;
+}
+
+.mt-2 {
+    margin-top: 8px;
+}
+.mb-2 {
+    margin-bottom: 8px;
+}
+.mb-3 {
+    margin-bottom: 12px;
+}
+.mb-4 {
+    margin-bottom: 16px;
+}
+
+.form-field {
+    display: block;
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    /* background-color: #fff; */
+    background-color: var(--input-bg);
+    background-clip: padding-box;
+    /* border: 1px solid #ced4da; */
+    border: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 4px;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.form-field-error {
+    border: 1px solid #dc3545 !important;
+    border-radius: 4px;
+}
+
+.form-field fieldset {
+    border-width: 0px !important;
+}
+
+.MuiFormControl-root.form-field .MuiInputBase-root {
+    min-height: 2.5rem;
+}
+
+.MuiFormControl-root.form-field .MuiAutocomplete-inputRoot {
+    padding-top: 6px !important;
+    padding-bottom: 6px !important;
+}
+
+.MuiFormControl-root.form-field .MuiFilledInput-root {
+    background: white;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+}
+.MuiFormControl-root.form-field .MuiFilledInput-root::before,
+.MuiFormControl-root.form-field .MuiFilledInput-root::after {
+    display: none;
+}
+
+.MuiFormControl-root.form-field .MuiOutlinedInput-root legend {
+    width: auto;
+}
+
+.MuiBreadcrumbs-root a {
+    color: rgba(0, 0, 0, 0.6);
+    text-decoration: none;
+}
+
+.MuiBreadcrumbs-root a:hover {
+    text-decoration: underline;
+}
+
+.MuiBreadcrumbs-root a:active {
+    color: inherit;
+}
+
+.MuiModal-root .MuiBox-root {
+    border-radius: 4px;
+    padding: 2rem;
+}
+
+.MuiDataGrid-columnHeaderTitle {
+    font-family: Montserrat-Medium, sans-serif !important;
+    font-size: 1rem;
+}
+.MuiDataGrid-cell {
+    font-size: 1rem;
+}
+
+.MuiDataGrid-cell input {
+    font-family: Montserrat, sans-serif;
+}
+
+.MuiOutlinedInput-root {
+    box-shadow: var(--input-box-shadow);
+    transition: var(--input-transition);
+    color: var(--input-color);
+    font-family: var(--input-font-family);
+}
+
+.MuiOutlinedInput-root.Mui-focused {
+    background-color: var(--input-bg-focused) !important;
+}
+/* Utils */
+.h-full {
+    height: 100%;
+}
+
+.w-full {
+    width: 100%;
+}
+
+.whitespace-nowrap {
+    white-space: nowrap;
+}
+
+.truncate {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+/* Flex */
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.flex-1 {
+    flex: 1;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+/* Customize Virtualized Select styles */
+.cde-select > .cde-select__control {
+    box-shadow: var(--input-box-shadow) !important;
+    transition: var(--input-transition);
+    color:var(--input-color) !important;
+    font-family: var(--input-font-family);
+    background-color: var(--input-bg) !important;
+    border: none;
+}
+
+.cde-select > .cde-select__control--is-focused {
+    background-color: var(--input-bg-focused) !important;
+}
+
+.cde-select > .cde-select__control.cde-select__control--is-disabled {
+    background-color: var(--input-bg-disabled) !important;
+}
+
+.cde-select-full-width {
+    width: 100% !important;
+}
+
+/* Customize React Table styles */
+.ReactTable .-pagination .-pageJump input {
+    box-shadow: none !important;
+}
+
+.btn {
+  display: inline-block;
+  font-weight: 400;
+  color: #495057;
+  text-align: center;
+  vertical-align: middle;
+  user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  text-decoration: none;
+  padding: 0.2rem 0.75rem;
+  border-radius: 4px;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+  border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.btn-secondary {
+  color: #fff;
+  background-color: #161b33;
+  border-color: #161b33;
+}
+.btn-secondary:hover {
+  color: #fff;
+  background-color: #0a0d18;
+  border-color: #07080f;
+}
+.btn-secondary:focus {
+  color: #fff;
+  background-color: #0a0d18;
+  border-color: #07080f;
+  box-shadow: 0 0 0 0.2rem rgba(57, 61, 82, 0.5);
+}
+
+.btn:focus {
+  outline: 0;
+  box-shadow: none;
+}
+
+.btn-disabled {
+    background-color: rgba(0, 0, 0, 0.12) !important;
+    color: rgba(0, 0, 0, 0.26) !important;
+}
+
+.MuiAutocomplete-popper {
+    z-index: 10000 !important;
+}
+.MuiAutocomplete-listbox {
+    max-height: 300px !important;
+}
+
+.MuiSvgIcon-root {
+    margin-bottom: 0 !important;
+}

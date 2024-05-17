@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src"
+  },
+  "include": [
+    "src",
+    "cdm-shared/component/Tabs.js",
+    "cdm-shared/component/htmlEditor"
+  ]
+}

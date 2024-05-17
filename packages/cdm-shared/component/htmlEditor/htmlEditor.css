@@ -1,0 +1,43 @@
+.html-editor-wrapper {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  overflow-y: auto;
+}
+.html-editor-wrapper-editor {
+  position: relative;
+  height: 76%;
+  overflow-x: hidden;
+}
+.html-editor-wrapper-toolbar {
+  position: absolute;
+  bottom: 0;
+  top: auto;
+  height: 18%;
+  background-color: transparent !important;
+  border: none;
+  color: #222;
+}
+.rdw-link-modal,
+.rdw-emoji-modal,
+.rdw-image-modal,
+.rdw-colorpicker-modal {
+  bottom: 35px;
+  top: auto;
+}
+.rdw-dropdown-optionwrapper {
+  bottom: 260px;
+  top: auto;
+
+  background-color: rgba(255, 255, 255, 0.1) !important;
+}
+.rdw-option-wrapper,
+.rdw-dropdown-wrapper {
+  background-color: rgba(255, 255, 255, 0.3) !important;
+  border-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+.rdw-option-wrapper:hover,
+.rdw-dropdown-wrapper:hover {
+  background-color: rgba(255, 255, 255, 0.8) !important;
+}

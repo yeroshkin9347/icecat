@@ -1,0 +1,8 @@
+#import "./action-set.graphql"
+
+fragment ConditionalActionSetFields on ConditionalActionSet {
+  actionSet {
+    ...ActionSetFields
+  }
+  businessRuleSetId
+}

@@ -1,0 +1,3 @@
+fragment TradeItemCategoryFields on TradeItemCategory {
+  code
+}

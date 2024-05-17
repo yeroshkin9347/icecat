@@ -1,0 +1,23 @@
+query GetTransformation(
+    $skip: Int,
+    $take: Int,
+    $where: TransformationSetFilterInput,
+    $order: [TransformationSetSortInput!]
+) {
+  get(
+    skip: $skip,
+    take: $take,
+    where: $where,
+    order: $order
+  ) {
+    pageInfo{
+      hasNextPage
+      hasPreviousPage
+    }
+    items {
+      id
+      name
+    }
+    totalCount
+  }
+}
